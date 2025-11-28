@@ -31,7 +31,6 @@ Click below to try it out 👇
   <img src="https://github.com/rayhnnmd/Search4Size/raw/main/preview.png" width="400"/>
 </p>
 
-*(You can update `preview.png` with your latest UI screenshot)*
 
 ---
 
